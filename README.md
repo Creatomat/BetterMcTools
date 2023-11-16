@@ -1,38 +1,20 @@
-# BetterMcTools
-Better Minecraft Tools is a vanilla friendly resourcepack for minecraft 1.19x and any version after that. Also on Planet Minecraft and Curseforge! 
 
-Should be put on top if using other resourcepacks.
+## Welcome to Better Mc Tools!
 
-Better Mc Tools is available on Curseforge, Modrinth and Planet Minecraft!
+This resourcepack aims to give that cool modded feel to the vanilla minecraft tools in a resourcepack!
+It was inspired by Furfsky Reborn, Rlcraft, ATM modpack, Better MInecraft Modpack, and some google images.
 
-I recommend downloading the latest releases from the links below:
+### Key Features
 
-Curseforge       : https://www.curseforge.com/minecraft/texture-packs/better-minecraft-tools
+* Most of the tools (swords, pickaxes, shears, etc.) have custom 3d models and 128x textures almost like a mod!
+* Works with optifine, iris, nvidium, vanilla and any other mods I can think of.
+* Compatible with all shaders and can be used over any other packs.
 
-Modrinth         : https://modrinth.com/resourcepack/better-minecraft-tools
+### Important Note
 
-Planet Minecraft : https://www.planetminecraft.com/texture-pack/better-mc-tools/
+**WARNING:** DO NOT DOWNLOAD FOR ANY SITE BESIDES PLANET MINECRAFT, MODRINTH AND CURSEFORGE
 
-You can also find the latest release in the RELEASES tab!
-
-Visit the ISSUES page to help with any bugs and other stuff that needs to get done.
-
-Feel free to submit pull requests with bug fixes and new features,
-
-Discord          : N/A
-
-# Instructions
-When downloading from any website (curseforge, modrinth, planet mc), or from the releases tab:
-
-Download the .zip file and place it in your resourcepacks folder in .minecraft, then open minecraft, go to the resource packs tab in options and select the downloaded resourcepack there.
-
-DONE
- 
-When downloading source code:
-
-Compress all files into a .zip file with the files being the first thing you see when extracting the .zip file. Then place it in your resourcepacks folder in .minecraft, then open minecraft, go to the resource packs tab in options and select the resourcepack there.
-
-DONE
+**Enjoy Better Mc Tools!**
 
 [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
 
